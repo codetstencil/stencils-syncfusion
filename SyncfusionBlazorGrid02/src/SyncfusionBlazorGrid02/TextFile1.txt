@@ -1,0 +1,1 @@
+﻿/DebugFile="C:\projects-desktop\codestencil\custom-stencils\stencils-syncfusion\SyncfusionBlazorGrid02\src\CodeStencil.Debug.xml"
