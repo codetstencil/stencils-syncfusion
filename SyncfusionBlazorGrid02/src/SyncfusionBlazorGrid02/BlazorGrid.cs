@@ -42,6 +42,7 @@ namespace ZeraSystems.SyncfusionBlazorGrid02
         public List<string> OutputList { get; set; }
         public List<ISchemaItem> SchemaItem { get; set; }
         public List<IExpander> Expander { get; set; }
+        public List<IDataTransferObject> DataTransferObject { get; set; }
         public List<string> InputList { get ; set; }
 
         public void ExecutePlugin()
