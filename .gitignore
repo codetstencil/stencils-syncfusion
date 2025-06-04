@@ -396,3 +396,13 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+/SyncfusionBlazorGrid02/build/ZeraSystems.CodeNanite.Cshtml.dll
+/SyncfusionBlazorGrid02/build/ZeraSystems.CodeNanite.Expansion.dll
+/SyncfusionBlazorGrid02/build/ZeraSystems.CodeNanite.Schema.dll
+/SyncfusionBlazorGrid02/build/ZeraSystems.CodeStencil.Contracts.dll
+/SyncfusionBlazorGrid02/build/ZeraSystems.SyncfusionBlazorGrid02.dll
+/SyncfusionBlazorGrid02/SyncfusionBlazorGrid02/Assemblies/ZeraSystems.CodeNanite.Cshtml.dll
+/SyncfusionBlazorGrid02/SyncfusionBlazorGrid02/Assemblies/ZeraSystems.CodeNanite.Expansion.dll
+/SyncfusionBlazorGrid02/SyncfusionBlazorGrid02/Assemblies/ZeraSystems.CodeNanite.Schema.dll
+/SyncfusionBlazorGrid02/SyncfusionBlazorGrid02/Assemblies/ZeraSystems.CodeStencil.Contracts.dll
+/SyncfusionBlazorGrid02/SyncfusionBlazorGrid02/Assemblies/ZeraSystems.SyncfusionBlazorGrid02.dll
